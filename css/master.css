@@ -16,6 +16,12 @@ body {
   margin: 10px;
 }
 
+.bigred {
+  color: red;
+  font-size: 40px;
+  font-style: italic;
+}
+
 a {
   color: #000088;
   text-decoration: underline;
