@@ -2,16 +2,16 @@ body {
   /*background-image: url("space.jpg");*/
   background-color: #aa5555;
   background-attachment: fixed;
-  font-family: sans-serif;
+  font-family: Trebuchet;
   color: #000000;
   font-size: 20px;
 }
 
 
 .box {
-  border: solid #330000 6px;
+  border: solid #330000 4px;
   background-color: #ff9999;
-  border-radius: 10px;
+  border-radius: 0px;
   color: black;
   margin: 10px;
 }
