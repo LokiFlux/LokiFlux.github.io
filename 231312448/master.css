@@ -1,0 +1,13 @@
+body {
+  background-color: #101;
+  color: #eee;
+  font-family: sans-serif;
+}
+
+a {
+  color: #aaf;
+}
+
+a:visited {
+  color: #faf;
+}
